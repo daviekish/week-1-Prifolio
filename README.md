@@ -13,7 +13,7 @@
 ## Technologies Used
 {i have included various sites in the Portfolio  }
 ## Support and contact details
-{in any case of issues concerning my portfolio contact me on my gmail account i.e kamwerudavie@gmail.com  and phone number: 0705464732}
+{in any case of issues concerning my portfolio contact me on my gmail account i.e davie.kamweru5612@gmail.com and phone number: 0705464732}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (David kamweru)**
