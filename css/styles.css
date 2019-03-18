@@ -8,6 +8,14 @@ h1{
   color:black;
   font-family: italic;
 }
+nav ul{
+  padding-left: 400px;
+  display: inline-block;
+  vertical-align: top;
+}
+nav li{
+  display: inline-block;
+}
 .header{
   font-size: 20px;
   font-weight: bold;
