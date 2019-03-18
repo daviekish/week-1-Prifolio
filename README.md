@@ -9,7 +9,7 @@
 * atom
 
 ## Known Bugs
-{there are no known bugs or used}
+{there are no known bugs as there was no need}
 ## Technologies Used
 {i have included various sites in the Portfolio  }
 ## Support and contact details
